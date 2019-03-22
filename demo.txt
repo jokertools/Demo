@@ -1,2 +1,2 @@
 this is for testing purpose 
-test 1 is in INProgress
+test 1 completed
